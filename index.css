@@ -3,7 +3,7 @@ body {
 	font-family: verdana;
 	font-size: 16px;
 	padding-right: 10px;
- 	padding-left: 10px;	
+ 	padding-left: 10px;
 }
 h1 {
 	color: #000080;
@@ -24,7 +24,7 @@ ul li {
 	position: relative;
 	line-height: 21px;
 	text-align: center;
-} 
+}
 ul li:hover {
 	display: block;
 	height: auto;
@@ -56,7 +56,7 @@ ul li ul.dropdown {
 }
 ul li:hover ul.dropdown {
 	display: block;	/* Display the dropdown */
-}  
+}
 ul li:hover ul.dropdown li {
 	display: block;
 	background: #654321;
@@ -75,7 +75,7 @@ img.me {
 	padding: 0px 20px;
 	border-radius: 50px;
 	width: 225px;
-	height: 275px; 
+	height: 280px; 
 }
 img.winter {
 	border: 10pt solid;
