@@ -1,0 +1,87 @@
+body {
+	background-color: linen;
+	font-family: verdana;
+	font-size: 16px;
+	padding-right: 10px;
+ 	padding-left: 10px;	
+}
+h1 {
+	color: #000080;
+	font-size: 40px;
+}
+h2 {
+	color: #000080;
+	font-size: 25px;
+}
+ul {
+	list-style: none;
+	padding: 0;
+	background: #000080;
+}
+ul li {
+	float: left;
+	display: inline-block;
+	position: relative;
+	line-height: 21px;
+	text-align: center;
+} 
+ul li:hover {
+	display: block;
+	height: auto;
+}
+ul li a {
+	display: block;
+	font-weight: bold;
+	color: linen;
+	background: #000080;
+	text-align: center;
+	padding: 8px 25px;
+	text-decoration: none;
+}
+ul li a:hover {
+	color: linen;
+	background: #654321;
+}
+a.inline {
+	text-decoration: none;
+	color: #006400;
+}
+ul li ul.dropdown {
+	min-width: 125px;	/* Set the width of the dropdown */
+	background: #000080;
+	display: none;
+	position: absolute;
+	z-index: 999;
+	left: 0;
+}
+ul li:hover ul.dropdown {
+	display: block;	/* Display the dropdown */
+}  
+ul li:hover ul.dropdown li {
+	display: block;
+	background: #654321;
+	width: 100%;
+}
+pre {
+	text-align: center;
+	white-space: pre-line;
+	font-size: 125%;
+}
+p {
+	color: #000080;
+}
+img.me {
+	float:left;
+	padding: 0px 20px;
+	border-radius: 50px;
+	width: 225px;
+	height: 275px; 
+}
+img.winter {
+	border: 10pt solid;
+	width: 95%;
+	max-height: 450px;
+}
+p.winter1 {
+  text-align: center;
+}
