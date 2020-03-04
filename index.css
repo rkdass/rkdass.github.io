@@ -93,3 +93,9 @@ img.winter {
 p.winter1 {
   text-align: center;
 }
+
+ul.news_list {
+	list-style-type:disc;
+	color: #000080;
+	margin-left: 2em;
+}
