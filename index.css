@@ -16,7 +16,7 @@ h2 {
 	font-size: 25px;
 }
 
-li {
+/* li {
 	float: left;
 	display: inline-block;
 	position: relative;
@@ -66,7 +66,7 @@ ul li:hover ul.dropdown li {
 	display: block;
 	background: #654321;
 	width: 100%;
-}
+} */
 
 pre {
 	fon
@@ -106,4 +106,28 @@ p.winter1 {
 	list-style-type: disc;
 	color: #000080;
   margin-left: 8em;
+}
+
+#menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#menu li {
+  float: left;
+}
+
+#menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#menu li a:hover {
+  background-color: #111;
 }
