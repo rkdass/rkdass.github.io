@@ -5,10 +5,12 @@ body {
 	padding-right: 10px;
  	padding-left: 10px;
 }
+
 h1 {
 	color: #000080;
 	font-size: 40px;
 }
+
 h2 {
 	color: #000080;
 	font-size: 25px;
@@ -28,7 +30,7 @@ ul li:hover {
 }
 
 ul li {
-	display: inline;
+	display: block;
 	font-weight: bold;
 	color: #006400;
 	background: #000080;
