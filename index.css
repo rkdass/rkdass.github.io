@@ -13,19 +13,20 @@ h2 {
 	color: #000080;
 	font-size: 25px;
 }
-ul {
+#menu ul {
 	padding: 0;
 	background: #000080;
 }
 
-ul li {
+#menu li {
 	float: left;
 	display: inline-block;
 	position: relative;
 	line-height: 21px;
 	text-align: center;
 }
-ul li:hover {
+
+/* ul li:hover {
 	display: block;
 	height: auto;
 }
@@ -47,7 +48,7 @@ a.inline {
 	color: #006400;
 }
 ul li ul.dropdown {
-	min-width: 125px;	/* Set the width of the dropdown */
+	min-width: 125px;
 	background: #000080;
 	display: none;
 	position: absolute;
@@ -55,13 +56,14 @@ ul li ul.dropdown {
 	left: 0;
 }
 ul li:hover ul.dropdown {
-	display: block;	/* Display the dropdown */
+	display: block;
 }
 ul li:hover ul.dropdown li {
 	display: block;
 	background: #654321;
 	width: 100%;
-}
+} */
+
 pre {
 	fon
 	text-align: center;
@@ -93,11 +95,11 @@ p.winter1 {
 
 #news_list strong {
 	color: #FF0000;
-  margin-left: 2em;
+  margin-left: 4em;
 }
 
 #news_list ol {
 	list-style-type: disc;
 	color: #000080;
-  margin-left: 2em;
+  margin-left: 4em;
 }
