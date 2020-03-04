@@ -18,6 +18,12 @@ ul {
 	padding: 0;
 	background: #000080;
 }
+
+ul.news_list {
+	list-style-type:disc;
+	color: #000080;
+}
+
 ul li {
 	float: left;
 	display: inline-block;
@@ -63,10 +69,12 @@ ul li:hover ul.dropdown li {
 	width: 100%;
 }
 pre {
+	fon
 	text-align: center;
 	white-space: pre-line;
 	font-size: 125%;
 }
+
 p {
 	color: #000080;
 }
