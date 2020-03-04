@@ -72,6 +72,7 @@ pre {
 p {
 	color: #000080;
 }
+
 img.me {
 	float:left;
 	padding: 0px 20px;
@@ -79,11 +80,13 @@ img.me {
 	width: 225px;
 	height: 300px;
 }
+
 img.winter {
 	border: 10pt solid;
 	width: 95%;
 	max-height: 450px;
 }
+
 p.winter1 {
   text-align: center;
 }
