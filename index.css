@@ -18,7 +18,7 @@ h2 {
 	background: #000080;
 }
 
-#menu li {
+/* #menu li {
 	float: left;
 	display: inline-block;
 	position: relative;
@@ -29,8 +29,9 @@ h2 {
 /* ul li:hover {
 	display: block;
 	height: auto;
-}
-ul li a {
+} */
+
+#menu ul li a {
 	display: block;
 	font-weight: bold;
 	color: linen;
@@ -39,15 +40,18 @@ ul li a {
 	padding: 8px 25px;
 	text-decoration: none;
 }
-ul li a:hover {
+
+/* ul li a:hover {
 	color: linen;
 	background: #654321;
-}
+} */
+
 a.inline {
 	text-decoration: none;
 	color: #006400;
 }
-ul li ul.dropdown {
+
+/* ul li ul.dropdown {
 	min-width: 125px;
 	background: #000080;
 	display: none;
