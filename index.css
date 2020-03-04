@@ -102,7 +102,7 @@ p.winter1 {
   margin-left: 4em;
 }
 
-#news_list ol {
+#news_list ul {
 	list-style-type: disc;
 	color: #000080;
   margin-left: 4em;
