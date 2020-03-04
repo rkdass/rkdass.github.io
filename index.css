@@ -99,13 +99,13 @@ p.winter1 {
 
 #news_list strong {
 	color: #FF0000;
-  margin-left: 12em;
+  margin-left: 14em;
 }
 
 #news_list ul li {
 	list-style-type: disc;
 	color: #000080;
-  margin-left: 12em;
+  margin-left: 14em;
 }
 
 #menu ul {
@@ -113,7 +113,6 @@ p.winter1 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  /* background-color: #333; */
 }
 
 #menu li {
@@ -126,6 +125,7 @@ p.winter1 {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+	background-color: #333;
 }
 
 #menu li a:hover {
