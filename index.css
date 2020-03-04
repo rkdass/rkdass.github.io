@@ -46,7 +46,7 @@ h2 {
 	background: #654321;
 } */
 
-a.inline {
+#menu a.inline {
 	text-decoration: none;
 	color: #006400;
 }
