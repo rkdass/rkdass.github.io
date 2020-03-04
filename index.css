@@ -48,13 +48,13 @@ p.winter1 {
 
 #news_list strong {
 	color: #FF0000;
-  margin-left: 20em;
+  margin-left: 30em;
 }
 
 #news_list ul li {
 	list-style-type: disc;
 	color: #000080;
-  margin-left: 20em;
+  margin-left: 30em;
 }
 
 #menu ul {
@@ -70,7 +70,7 @@ p.winter1 {
 
 #menu li a {
   display: block;
-  color: orange;
+  color: #FFA500;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
