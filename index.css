@@ -19,7 +19,7 @@ ul {
 	background: #000080;
 }
 
-ul.news_list {
+ul li.news_list {
 	list-style-type:disc;
 	color: #000080;
 }
