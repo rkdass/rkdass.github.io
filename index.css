@@ -14,14 +14,8 @@ h2 {
 	font-size: 25px;
 }
 ul {
-	list-style: none;
 	padding: 0;
 	background: #000080;
-}
-
-ul li.news_list {
-	list-style-type:disc;
-	color: #000080;
 }
 
 ul li {
