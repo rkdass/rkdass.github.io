@@ -31,10 +31,10 @@ h2 {
 	height: auto;
 } */
 
-#menu ul li a {
-	display: block;
+#menu ul li {
+	display: inline-block;
 	font-weight: bold;
-	color: linen;
+	color: #006400;
 	background: #000080;
 	text-align: center;
 	padding: 8px 25px;
@@ -44,7 +44,7 @@ h2 {
 /* ul li a:hover {
 	color: linen;
 	background: #654321;
-} */
+}
 
 #menu a.inline {
 	text-decoration: none;
