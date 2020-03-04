@@ -96,8 +96,8 @@ p.winter1 {
   margin-left: 2em;
 }
 
-#news_list ul {
-	list-style-type:disc;
+#news_list ol {
+	list-style-type: disc;
 	color: #000080;
   margin-left: 2em;
 }
