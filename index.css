@@ -14,7 +14,7 @@ h2 {
 	font-size: 25px;
 }
 
-#menu li {
+li {
 	float: left;
 	display: inline-block;
 	position: relative;
@@ -22,12 +22,12 @@ h2 {
 	text-align: center;
 }
 
-#menu ul li:hover {
+ul li:hover {
 	display: block;
 	height: auto;
-} */
+}
 
-#menu ul li {
+ul li {
 	display: inline;
 	font-weight: bold;
 	color: #006400;
@@ -37,17 +37,17 @@ h2 {
 	text-decoration: none;
 }
 
-#menu ul li a:hover {
+ul li a:hover {
 	color: linen;
 	background: #654321;
 }
 
-#menu a.inline {
+a.inline {
 	text-decoration: none;
 	color: #006400;
 }
 
-#menu ul li ul.dropdown {
+ul li ul.dropdown {
 	min-width: 125px;
 	background: #000080;
 	display: none;
@@ -55,11 +55,12 @@ h2 {
 	z-index: 999;
 	left: 0;
 }
-#menu ul li:hover ul.dropdown {
+
+ul li:hover ul.dropdown {
 	display: block;
 }
 
-#menu ul li:hover ul.dropdown li {
+ul li:hover ul.dropdown li {
 	display: block;
 	background: #654321;
 	width: 100%;
