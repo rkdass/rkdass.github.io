@@ -28,7 +28,7 @@ h2 {
 } */
 
 #menu ul li {
-	display: inline-block;
+	display: inline;
 	font-weight: bold;
 	color: #006400;
 	background: #000080;
