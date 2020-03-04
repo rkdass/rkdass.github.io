@@ -94,8 +94,8 @@ p.winter1 {
   text-align: center;
 }
 
-ul.news_list {
+.news_list {
+	margin-left: 2em;
 	list-style-type:disc;
 	color: #000080;
-	margin-left: 2em;
 }
