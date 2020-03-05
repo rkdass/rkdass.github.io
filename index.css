@@ -50,15 +50,18 @@ p.winter1 {
   margin-left: 16em;
 }
 
-#news_list ul {
-	list-style: none;
-	color: #000080;
-  margin-left: 16em;
+dl {
+  display: grid;
+  grid-template-columns: max-content auto;
 }
 
-#news_list li {
-	padding-left: -40px;
-	margin: 10px 0;
+dt {
+  grid-column-start: 1;
+}
+
+dd {
+  grid-column-start: 2;
+  margin-bottom: 10px;
 }
 
 #menu ul {
