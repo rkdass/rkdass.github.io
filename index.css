@@ -46,14 +46,18 @@ p.winter1 {
 }
 
 #news_list strong {
-	color: #FF0000;
+	color: #8B0000;
   margin-left: 16em;
 }
 
-#news_list ul li {
-	list-style-type: none;
+#news_list ul {
+	list-style: none;
 	color: #000080;
   margin-left: 16em;
+}
+
+#news_list li {
+	padding-left: -40px;
 }
 
 #menu ul {
