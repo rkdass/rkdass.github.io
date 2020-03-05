@@ -7,12 +7,12 @@ body {
 }
 
 h1 {
-	color: #005030;
+	color: #000080;
 	font-size: 40px;
 }
 
 h3 {
-	color: #005030;
+	color: #000080;
 	font-size: 25px;
 }
 
@@ -48,13 +48,13 @@ p.winter1 {
 
 #news_list strong {
 	color: #FF0000;
-  margin-left: 30em;
+  margin-left: 25em;
 }
 
 #news_list ul li {
 	list-style-type: disc;
 	color: #000080;
-  margin-left: 30em;
+  margin-left: 25em;
 }
 
 #menu ul {
