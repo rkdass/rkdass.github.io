@@ -25,7 +25,6 @@ pre {
 
 p {
 	color: #000080;
-	text-align:justify;
 }
 
 img.me {
@@ -48,13 +47,13 @@ p.winter1 {
 
 #news_list strong {
 	color: #FF0000;
-  margin-left: 25em;
+  margin-left: 20em;
 }
 
 #news_list ul li {
 	list-style-type: disc;
 	color: #000080;
-  margin-left: 25em;
+  margin-left: 20em;
 }
 
 #menu ul {
