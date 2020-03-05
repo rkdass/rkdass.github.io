@@ -52,7 +52,8 @@ p.winter1 {
 
 #news_list h3 {
 	color: #000080;
-	margin-left: 16em;
+  margin-left: 10.25em;
+  font-size: 25px;
 }
 
 dl {
