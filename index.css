@@ -50,6 +50,11 @@ p.winter1 {
   margin-left: 16em;
 }
 
+#news_list h3 {
+	color: #000080;
+	margin-left: 16em;
+}
+
 dl {
   display: grid;
   grid-template-columns: max-content auto;
