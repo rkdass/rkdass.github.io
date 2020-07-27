@@ -22,7 +22,7 @@ Prior to building deep learning models, my background was in Theoretical Physics
 
 Link to my current [CV](assets/pdf/rkd_cv_26Jul20.pdf){:target="\_blank"}.
 
-Away from work, I enjoy making everyday memories with my [better-half](https://sdutta-41.github.io){:target="\_blank"}, binging my favorite shows and visiting family as often as I can.  
+Away from work, I enjoy making everyday memories with my [better-half](https://sdutta-41.github.io){:target="\_blank"}, binging my favorite shows and visiting family.  
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
