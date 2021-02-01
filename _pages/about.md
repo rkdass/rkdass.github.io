@@ -22,7 +22,7 @@ Currently, as a [U-LINK Predoctoral Fellow](https://news.miami.edu/stories/2019/
 
 Prior to building deep learning models, my background was in Theoretical Physics. I achieved my Masters degree in Physics from Lancaster University where I was fortunate to be advised by [Dr. Anupam Mazumdar](https://www.rug.nl/staff/anupam.mazumdar/){:target="\_blank"}. My thesis explored the phenomenon of particle production due to an oscillating inflaton field within a non-expanding background using Quantum Field Theory. [[Thesis]](assets/pdf/MPhys_thesis.pdf){:target="\_blank"} [[Poster]](assets/pdf/MPhys_poster.pdf){:target="\_blank"}.
 
-Link to my current [CV](assets/pdf/rkd_cv_15Sept20.pdf){:target="\_blank"}.
+Link to my current [CV](assets/pdf/rkd_cv_31Jan21.pdf){:target="\_blank"}.
 
 Away from work, I enjoy making everyday memories with my [better-half](https://sdutta-41.github.io){:target="\_blank"} and binging my favorite shows.  
 
