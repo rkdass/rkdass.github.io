@@ -1,8 +1,15 @@
-Adams:
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Dass":
+  - firstname: ["R", "R.", "R. K.", "Rahul Kumar"]
+    url: https://rkdass.github.io/
 
-Podolsky:
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Petersen":
+  - firstname: ["Nick", "N."]
+    url: https://people.miami.edu/profile/nxp161@miami.edu#panelCareer
 
-Rosen:
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Visser":
+  - firstname: ["Ubbo", "U."]
+    url: https://www.cs.miami.edu/home/visser/
+
+"Omori": 
+  - firstname: ["Marisa", "M."]
+    url: https://www.umsl.edu/ccj/faculty/Omori.html
