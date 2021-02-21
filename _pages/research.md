@@ -16,26 +16,26 @@ nav: true
 
 <span style="color:darkblue; font-size:1.25em">**Talks and Workshops**</span>
 
-* **R. K. Dass** [Apr 2020] Talk: [*Beyond Black and White: Assessing Deep Learning Facial Classifications by Considering Race and Ethnicity as a Multidimensional Physical Characteristic*](/assets/pdf/csPhdTalkApr2020.pdf){:target="\_blank"}, University of Miami.
-* L. Hernández (Microsoft), E. Diaz (Miami Police Department), B. Brackeen (Lightship Capital), and **R. K. Dass** [Nov 2019] Invited Panel: [*Facial Recognition, Ethical Considerations and Social Responsibility*](/blog/2019/mdcPanelWorkshop){:target="\_blank"}, and Invited Workshop: [*Facial Recognition Adoption*](/assets/pdf/mdc_role_play_workshop.pdf){:target="\_blank"}, Miami--Dade College.
-* N. Petersen and **R. K. Dass** [Nov 2019] Invited Talk: [*Facial Profiling: Understanding how people and computers “see” racial-ethnic physical characteristics*](/assets/pdf/ccsGigabytesForGood2019.pdf){:target="\_blank"}, University of Miami.
-* **R. K. Dass** [Mar 2018] Talk: [*Agent skill learning and keepaway using parameterized policy search*](/assets/pdf/csPhdTalkMar2018.pdf){:target="\_blank"}, University of Miami.
+* **R. K. Dass**, *Talk:* [*Beyond Black and White: Assessing Deep Learning Facial Classifications by Considering Race and Ethnicity as a Multidimensional Physical Characteristic*](/assets/pdf/csPhdTalkApr2020.pdf){:target="\_blank"}, University of Miami, Apr 2020.
+* **R. K. Dass**, L. Hernández (Microsoft Philanthropies), E. Diaz (Miami Police Department), and B. Brackeen (Lightship Capital), *Invited Panel:* [*Facial Recognition, Ethical Considerations and Social Responsibility*](/blog/2019/mdcPanelWorkshop){:target="\_blank"}, and *Invited Workshop:* [*Facial Recognition Adoption*](/assets/pdf/mdc_role_play_workshop.pdf){:target="\_blank"}, Miami Dade College, Nov 2019.
+* N. Petersen and **R. K. Dass**, *Invited Talk:* [*Facial Profiling: Understanding how people and computers “see” racial-ethnic physical characteristics*](/assets/pdf/ccsGigabytesForGood2019.pdf){:target="\_blank"}, University of Miami, Nov 2019.
+* **R. K. Dass**, *Talk:* [*Agent skill learning and keepaway using parameterized policy search*](/assets/pdf/csPhdTalkMar2018.pdf){:target="\_blank"}, University of Miami, Mar 2018.
 
 ***
 
 <span style="color:darkblue; font-size:1.25em">**Fellowships and Grants**</span>
 
-* U--LINK Predoctoral Fellowship, University of Miami (Aug 2019 -- present)
-* Miami CTSI Pilot Award, University of Miami (Aug 2020 -- May 2021)
-* U--LINK Phase 1 Grant, University of Miami (Jan -- Aug 2019)
+* U--LINK Predoctoral Fellowship, University of Miami, Aug 2019 -- present
+* Miami CTSI Pilot Award, University of Miami, Aug 2020 -- May 2021
+* U--LINK Phase 1 Grant, University of Miami, Jan -- Aug 2019
 
 ***
 
 <span style="color:darkblue; font-size:1.25em">**Whitepapers**</span>
 
-* **R. K. Dass**, "Decision Tree Learning -- An implementation and improvement of the ID3 algorithm", MSc in Computer Science Thesis, Indiana State University, *2017*. <br />
+* **R. K. Dass**, "Decision Tree Learning -- An implementation and improvement of the ID3 algorithm", MSc in Computer Science Thesis, Indiana State University, 2017 <br />
 [[pdf]](/assets/pdf/isu_thesis.pdf){:target="\_blank"} [[slides]](/assets/pdf/isu_presentation.pdf){:target="\_blank"}
-* **R. K. Dass**, "Quantum Field Theory II", MPhys in Theoretical Physics Thesis, Lancaster University, *2013*. <br />
+* **R. K. Dass**, "Quantum Field Theory II", MPhys in Theoretical Physics Thesis, Lancaster University, 2013. <br />
 [[pdf]](/assets/pdf/MPhys_thesis.pdf){:target="\_blank"} [[poster]](/assets/pdf/MPhys_poster.pdf){:target="\_blank"}
 
 ***
