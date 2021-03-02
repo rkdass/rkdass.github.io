@@ -22,6 +22,6 @@ Currently, as a [U-LINK Predoctoral Fellow](https://news.miami.edu/stories/2019/
 
 Prior to developing deep learning models, my background was in Theoretical Physics. I was fortunate to be advised by [Dr. Anupam Mazumdar](https://www.rug.nl/staff/anupam.mazumdar/){:target="\_blank"} and achieved my Masters degree from Lancaster University.
 
-Link to my current [CV](assets/pdf/rkd_cv_31Jan21.pdf){:target="\_blank"}.
+Link to my current [CV](assets/pdf/rkd_cv_03Mar21.pdf){:target="\_blank"}.
 
 Away from work, I enjoy making everyday memories with my [better-half](https://sdutta-41.github.io){:target="\_blank"} and binging my favorite shows.  
