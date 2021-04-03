@@ -6,7 +6,7 @@ description: <a href="#">University of Miami</a>git . Address. Contacts. Moto. E
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   address: # >
      <p></p>
      <p></p>
