@@ -7,9 +7,11 @@ permalink: /research/
 nav: true
 ---
 
-<span style="color:darkblue; font-size:1.25em">**Peer--Reviewed Conference Articles**</span>
+<span style="color:darkblue; font-size:1.25em">**Peer--Reviewed Articles**</span>
 
-* **R. K. Dass**, O. Schwartz, N. Petersen, M. Omori, U. Visser. "Towards A More Trustworthy Facial Analysis System: A Case Study Investigating The Impact Of Self--Auditing In Criminal Justice," *2021, in submission*. <br />
+* **R. K. Dass**, O. Schwartz, U. Visser. "From ImageNet to Facial Analysis Classification: Rethinking CNN Initialization Paradigms for Out of Domain Adaptation using Self-Auditing," *2021, working paper*. <br /> 
+
+* **R. K. Dass**, N. Petersen, M. Omori, T. R. Lave, U. Visser. "Detecting Racial Inequalities in Criminal Justice: An Ethical Deep Learning Approach for Generating and Interpreting Racial Identification using Mugshots," *2021, working paper*. <br />
 
 * **R. K. Dass**, [N. Petersen](https://people.miami.edu/profile/nxp161@miami.edu#panelCareer){:target="\_blank"}, [U. Visser](https://www.cs.miami.edu/home/visser/"){:target="\_blank"}, and [M. Omori](https://www.umsl.edu/ccj/faculty/Omori.html){:target="\_blank"}, "It’s Not Just Black and White: Classifying Defendant Mugshots Based on the Multidimensionality of Race and Ethnicity," *2020 17th Conference on Computer and Robot Vision (CRV)*, Ottawa, ON, Canada, 2020, pp. 238-245, [doi: 10.1109/CRV50864.2020.00039](https://ieeexplore.ieee.org/abstract/document/9108677){:target="\_blank"}. <br />
 [[pdf]](/assets/pdf/ai_crv_2020.pdf){:target="\_blank"} [[poster]](/assets/pdf/ai_crv_poster2020.pdf){:target="\_blank"} [[video]](https://youtu.be/o4XtAekWSLQ){:target="\_blank"}
@@ -18,6 +20,8 @@ nav: true
 
 <span style="color:darkblue; font-size:1.25em">**Talks and Workshops**</span>
 
+* A. Mosser, **R. K. Dass**, D. Lun, O. N. V. Tserej, A. L. Kafkoutsou, S. T. Koller, *Invited Panel:* [*A Dialogue with U-LINK’s Graduate Fellows on Interdisciplinary Research & Team Science*](https://events.miami.edu/event/a_dialogue_with_u-links_graduate_fellows_on_interdisciplinary_research_team_science){:target="\_blank"}, University of Miami, Apr 2021.
+* **R. K. Dass**, *Talk:* [*Towards a More Trustworthy Facial Analysis Systemusing Self-Auditing*](/assets/pdf/csPhdTalkApr2021.pdf){:target="\_blank"}, University of Miami, Apr 2021.
 * **R. K. Dass**, *Talk:* [*Beyond Black and White: Assessing Deep Learning Facial Classifications by Considering Race and Ethnicity as a Multidimensional Physical Characteristic*](/assets/pdf/csPhdTalkApr2020.pdf){:target="\_blank"}, University of Miami, Apr 2020.
 * **R. K. Dass**, L. Hernández (Microsoft Philanthropies), E. Diaz (Miami Police Department), and B. Brackeen (Lightship Capital), *Invited Panel:* [*Facial Recognition, Ethical Considerations and Social Responsibility*](/blog/2019/mdcPanelWorkshop){:target="\_blank"}, and *Invited Workshop:* [*Facial Recognition Adoption*](/assets/pdf/mdc_role_play_workshop.pdf){:target="\_blank"}, Miami Dade College, Nov 2019.
 * N. Petersen and **R. K. Dass**, *Invited Talk:* [*Facial Profiling: Understanding how people and computers “see” racial-ethnic physical characteristics*](/assets/pdf/ccsGigabytesForGood2019.pdf){:target="\_blank"}, University of Miami, Nov 2019.
